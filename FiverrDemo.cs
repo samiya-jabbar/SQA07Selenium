@@ -10,6 +10,7 @@ using OpenQA.Selenium.Interactions;
 
 namespace SQA07Selenium
 {
+    // This is a Test Class
     [TestClass]
     public class Fiverr
     {
